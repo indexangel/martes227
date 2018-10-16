@@ -1,0 +1,64 @@
+.caja1 div{
+	background: red;
+	margin: 10px;
+}
+.dis_none{}
+.dis_block{}
+.dis_inline{}
+.dis_inlineblock{}
+.dis_none{
+	display: none;
+}
+.dis_block{
+	display: block;
+}
+.dis_inline{
+	display: inline;
+}
+.dis_inlineblock{
+	display: inline-block;
+}
+.over{
+	width: 100px;
+	height: 100px:;
+}
+.hidden{
+	overflow: hidden;
+}
+.auto{
+	overflow: auto;
+}
+.viseble
+.col6{
+	width: 48%;
+	background: blue;	
+}
+.col12{
+	width: 100%;
+	background: green;
+}
+.col13{
+	width: 23%;
+	background: red;
+	float: left;
+}
+.row{
+	background: red;
+	position: relative;
+}
+.col13{
+	width: 23%;
+	float: left;
+}
+.div{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	width: 400px;
+	height: 800px;
+	background: green;
+	border: 4px;
+	margin: 0 auto;
+}
+
+
